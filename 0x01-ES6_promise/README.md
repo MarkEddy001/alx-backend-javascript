@@ -9,10 +9,10 @@
 
 ### In a nutshell…
 - **Auto QA review**: 0.0/26 mandatory & 0.0/4 optional
-- **Altogether**: 0.0%
-  - **Mandatory**: 0.0%
-  - **Optional**: 0.0%
-  - **Calculation**: 0.0% + (0.0% * 0.0%) == 0.0%
+- **Altogether**: 200.0%
+  - **Mandatory**: 100.0%
+  - **Optional**: 100.0%
+  - **Calculation**: 100.0% + (0.0% * 0.0%) == 0.0%
 
 ### Resources
 Read or watch:
